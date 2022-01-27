@@ -1,9 +1,9 @@
 # -Interaction-Stepwise-FDR-analysis
 
-## Python haven't built a stepwise regression package till 2019. 
+Python haven't built a stepwise regression package till 2019. 
 The code here provides a function to run stepwise on logistic regression and uses AIC to evaluate the model.
   
-##---------------------------------------------------------------  
+--------------------------------------------------------------  
       from sklearn.linear_model import LogisticRegression
       import statsmodels.api as sm
 
